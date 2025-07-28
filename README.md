@@ -48,7 +48,7 @@ Using historical performance metrics, my goal was to answer:
 ✅ **WoW Comparisons** – Trend visuals for growth or decline  
 ✅ **Segment Analysis** – Market segments (Corporate, Online Travel Agents, etc.) broken down  
 ✅ **Performance Heatmaps** – Quickly identify underperforming properties  
-✅ **Custom DAX Measures** – For calculated metrics like variance %, MoM change, etc.
+✅ **Custom DAX Measures** – For calculated metrics like RevPAR WoW Change %, Occupancy % change, DSRN, DURN, etc.
 
 ---
 
@@ -56,7 +56,7 @@ Using historical performance metrics, my goal was to answer:
 
 - **Power BI** (Data modeling, visualizations)
 - **DAX** (for calculated fields and KPIs)
-- **Power Query** (Data Cleaning & M Transformations)
+- **Power Query** (Data Cleaning & Transformations)
 - **Excel** (Initial data exploration)
 
 ---
@@ -79,7 +79,7 @@ Using historical performance metrics, my goal was to answer:
 
 ## 🖼️ Dashboard Preview
 
-> Example:  
+> This is how the dashboard looks like:  
 > ![Dashboard Preview](https://github.com/premjavali05/Revenue_Insights/blob/main/Dashboard.png)
 
 ---
