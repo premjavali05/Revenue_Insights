@@ -79,16 +79,15 @@ Using historical performance metrics, my goal was to answer:
 
 ## 🖼️ Dashboard Preview
 
-> *[Add screenshots to the repo or link to them in the README]*  
 > Example:  
-> ![Dashboard Preview](screenshots/dashboard_overview.png)
+> ![Dashboard Preview](https://github.com/premjavali05/Revenue_Insights/blob/main/Dashboard.png)
 
 ---
 
 ## 📣 Let's Connect
 
-If you're in the hospitality industry or just passionate about using data for decisions, let’s chat!  
-📧 [yourname@example.com]  
+If you're just passionate about using data for decisions, let’s chat!  
+📧 [javaliprem123@gmail.com]  
 🔗 [LinkedIn](https://www.linkedin.com/in/prem-javali/)
 
 ---
